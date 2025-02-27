@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Écran fantaisie</string>
-    <string name="department">Département</string>
-    <string name="direct_reports">Rapports directs</string>
+    <string name="app_name">FancyScreen</string>
+    <string name="department">Department</string>
+    <string name="direct_reports">Reports</string>
     <string name="email">E-mail</string>
     <string name="extension">Extension</string>
-    <string name="supervisor">Superviseur</string>
-
+    <string name="supervisor">Supervisor</string>
 
     <string name="name_placeholder">Name</string>
-    <string name="email_placeholder">Email Address</string>
+    <string name="email_placeholder">Email</string>
     <string name="extension_placeholder">Extension</string>
-    <string name="department_placeholder">Department name</string>
-    <string name="supervisor_placeholder">Supervisor\'s Name</string>
+    <string name="department_placeholder">Department</string>
+    <string name="supervisor_placeholder">Supervisor</string>
 </resources>
