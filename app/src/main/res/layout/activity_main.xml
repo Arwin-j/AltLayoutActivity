@@ -39,6 +39,7 @@
             android:id="@+id/email"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:text = "@string/email"
             android:textAppearance="@style/TextAppearance.AppCompat.Display1"
             tools:text="Email Address" />
 
@@ -54,6 +55,7 @@
             android:id="@+id/extension"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:text="@string/extension"
             android:textAppearance="@style/TextAppearance.AppCompat.Display1"
             tools:text="Extension" />
 
@@ -69,6 +71,7 @@
             android:id="@+id/department"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:text="@string/department"
             android:textAppearance="@style/TextAppearance.AppCompat.Display2"
             tools:text="Department name" />
 
@@ -84,6 +87,7 @@
             android:id="@+id/supervisor"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:text="@string/supervisor"
             android:textAppearance="@style/TextAppearance.AppCompat.Display1"
             tools:text="Supervisor\'s Name" />
 
