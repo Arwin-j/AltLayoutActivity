@@ -9,9 +9,9 @@
     <string name="supervisor">Superviseur</string>
 
 
-    <string name="name_placeholder">Name</string>
-    <string name="email_placeholder">Email Address</string>
+    <string name="name_placeholder">Nom</string>
+    <string name="email_placeholder">Adresse e-mail</string>
     <string name="extension_placeholder">Extension</string>
-    <string name="department_placeholder">Department name</string>
-    <string name="supervisor_placeholder">Supervisor\'s Name</string>
+    <string name="department_placeholder">Nom du département</string>
+    <string name="supervisor_placeholder">Nom du superviseur</string>
 </resources>
